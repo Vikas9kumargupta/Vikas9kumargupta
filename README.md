@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **more about flutter**
+- 🌱 I’m currently learning **more about Kotlin and Native Android Development**
 
-- 💬 Ask me about **Flutter or any tech-related stuff.**
+- 💬 Ask me about **Android or any tech-related stuff.**
 
 - 📫 How to reach me **Check social links below.**
 
-- ⚡ Fun fact **I spend almost 12 hours listening to songs every day.**
+- ⚡ Fun fact **Telling stories to EveryOne.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bidur-gupta-3b515122a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidur-gupta-3b515122a" height="30" width="40" /></a>
-<a href="https://fb.com/bidur.gupta.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bidur.gupta.37" height="30" width="40" /></a>
-<a href="https://instagram.com/bidur_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bidur_05" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vikas-kumar-gupta-65419a24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bidur-gupta-3b515122a" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vikaskumar.gupta.9809672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bidur.gupta.37" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vikas06394/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bidur_05" height="30" width="40" /></a>
 </p>
 
 
