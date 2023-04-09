@@ -1,4 +1,4 @@
-![logo](https://github.com/vikas639/vikas639/blob/main/Screenshot%202023-04-04%20121731.png)
+![logo](https://github.com/vikas639/vikas639/blob/main/https://drive.google.com/file/d/1IMoepgdZkJnQsNk1pOk1JpEHLo9q1ZCD/view?usp=drivesdk)
 <h1 align="center">Hi 👋, I'm VIKAS KUMAR GUPTA</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <br/>
