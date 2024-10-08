@@ -5,9 +5,12 @@
 
 - 💬 Ask me about **Android, Spring Boot, Java, or any tech-related stuff.**
 
+- 👩‍💻 I'm currently working on Self Development
+
 - 📫 How to reach me **Check social links below.**
 
-- ⚡ Fun fact **Telling stories to EveryOne.**
+- 😄 Pronouns He/Him/Developer
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
