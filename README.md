@@ -26,8 +26,8 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img align="center" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="50" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" width="55" height="40"/> </a>
-<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" width="55" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" width="53" height="40"/> </a>
+<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" width="46" height="40"/> </a>
 </p>
 
 # 📊 GitHub Stats:
