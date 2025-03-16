@@ -11,7 +11,6 @@
 
 - 😄 Pronouns He/Him/Developer
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikas kumar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas kumar gupta" height="30" width="40" /></a>
@@ -20,15 +19,15 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer""> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img align="center" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="50" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" width="53" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer""> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/></a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="40"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img align="center" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="50" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" width="53" height="40"/></a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" alt="JWT" width="50" height="40"/></a>
-<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" height="40"/> </a>
+<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" height="40"/></a>
 </p>
 
 # 📊 GitHub Stats:
