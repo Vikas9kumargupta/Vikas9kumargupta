@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIKAS KUMAR GUPTA</h1>
 <h3 align="center">A passionate Java & Mobile Application Developer from India</h3>
 <br>
-- 🌱 I’m currently learning **more about Kotlin, JetPack Compose, Mobile Application Development**
+- 🌱 I’m currently learning **more about Java, Spring Boot, Spring, AWS, Docker, Backend Development, Mobile Application Development**
 
 - 💬 Ask me about **Android, Spring Boot, Java, or any tech-related stuff.**
 
