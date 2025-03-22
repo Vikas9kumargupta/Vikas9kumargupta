@@ -27,7 +27,8 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img align="center" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="50" height="40"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" width="53" height="40"/></a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" alt="JWT" width="50" height="40"/></a>
-<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" height="40"/></a>
+<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="43" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://tecnologia.uniandes.edu.co/wp-content/uploads/Postman-logo.png" alt="Postman" width="44" height="40"/></a>
 </p>
 
 # 📊 GitHub Stats:
