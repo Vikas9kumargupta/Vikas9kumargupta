@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm VIKAS KUMAR GUPTA</h1>
+<h1 align="center">Hi 👋, I'm Vikas Kumar Gupta</h1>
 <h3 align="center">A passionate Java & Mobile Application Developer from India</h3>
 <br>
-- 🌱 I’m currently learning **more about Java, Spring Boot, Spring, AWS, Docker, Backend Development, Mobile Application Development**
 
-- 💬 Ask me about **Android, Spring Boot, Java, or any tech-related stuff.**
+🌱 I’m currently learning **more about Java, Spring Boot, Spring, AWS, Docker, Backend Development, Mobile Application Development.**
 
-- 👩‍💻 I'm currently working on self-development.
+---
 
-- 📫 How to reach me **Check social links below.**
-
-- 😄 Pronouns He/Him/Developer
+- 📫 How to reach me **vikasgup074@gmil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +25,8 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" width="53" height="40"/></a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" alt="JWT" width="50" height="40"/></a>
 <a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="43" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://tecnologia.uniandes.edu.co/wp-content/uploads/Postman-logo.png" alt="Postman" width="44" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="44" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
 # 📊 GitHub Stats:
