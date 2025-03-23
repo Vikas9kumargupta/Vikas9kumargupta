@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar Gupta</h1>
 <h3 align="center">A passionate Java & Mobile Application Developer from India</h3>
-<br>
+
+---
 
 🌱 I’m currently learning **more about Java, Spring Boot, Spring, AWS, Docker, Backend Development, Mobile Application Development.**
 
@@ -16,16 +17,16 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer""> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="40"/></a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="40"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img align="center" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="50" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" width="53" height="40"/></a>
-<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" alt="JWT" width="50" height="40"/></a>
-<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="43" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="44" height="40"/></a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer""> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img align="center" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring" width="40" height="40"/></a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.svgrepo.com/show/306280/jsonwebtokens.svg" alt="JWT" width="40" height="40"/></a>
+<a href="https://www.thymeleaf.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
