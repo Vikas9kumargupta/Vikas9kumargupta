@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently learning **more about Java, Spring Boot, AWS, Docker, Backend Development, Kotlin and Mobile Application Development.**
+🌱 I’m currently learning **more about Java, Spring Boot, AWS, Docker, Backend Development, Kotlin, and Mobile Application Development.**
 
 ---
 
@@ -35,13 +35,14 @@
 </p>
 
 <div align="start">
+  <h4>Profile Views: </h3>
   <img src="https://profile-counter.glitch.me/Vikas9kumargupta/count.svg?"  />
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vikas9kumargupta&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vikas9kumargupta&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas9kumargupta&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vikas9kumargupta&show_icons=true&locale=en&layout=compact" alt="Vikas9kumargupta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikas9kumargupta&show_icons=true&locale=en" alt="Vikas9kumargupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas9kumargupta&" alt="Vikas9kumargupta" /></p>
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app?username=Vikas9kumargupta&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
