@@ -9,10 +9,13 @@
 
 - 📫 How to reach me **vikasgup074@gmil.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vikas kumar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas kumar gupta" height="30" width="40" /></a>
 <a href="https://x.com/VIKAS__045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikas kumar gupta" height="30" width="40" /></a>
+<a href="vikasgup074@gmail.com" target="blank"><img align="center" src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/2476484.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTc0NjYzNjk3NiwicSI6bnVsbCwiaWF0IjoxNzQ2Mzc3Nzc2fQ__.154e5cebf075c63b083a367c9ca094b0083ba545572e7bf20a198153ae37c0cb" alt="vikas kumar gupta" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -30,6 +33,10 @@
 <a href="https://hub.docker.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://miro.medium.com/v2/resize:fit:400/1*OARpkeBkn_Tw3vk8H769OQ.png" alt="docker" width="40" height="41" hspace="4"/> </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png" alt="github" width="40" height="42" hspace="3"/> </a>
 </p>
+
+<div align="start">
+  <img src="https://profile-counter.glitch.me/Vikas9kumargupta/count.svg?"  />
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vikas9kumargupta&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
