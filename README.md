@@ -3,11 +3,11 @@
 
 ---
 
-🌱 I’m currently learning **more about Java, Spring Boot, Spring, AWS, Docker, Backend Development, and Mobile Application Development.**
+🌱 I’m currently learning **more about Java, Spring Boot, AWS, Docker, Backend Development, Kotlin and Mobile Application Development.**
 
 ---
 
-- 📫 How to reach me **vikasgup074@gmil.com**
+- 📫 How to reach me **vikasgup074@gmail.com**
 
 ---
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" hspace="3"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer""> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" hspace="3"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" hspace="3"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://banner2.cleanpng.com/20180417/pse/avfot5a08.webp" alt="firebase" width="40" height="40" hspace="3"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" hspace="3"/></a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" hspace="3"/></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img align="center" src="https://spring.io/img/projects/spring-boot.svg" alt="spring-boot" width="40" height="40" hspace="3"/></a>
