@@ -7,7 +7,7 @@
 
 ---
 
-- 📫 How to reach me **vikasgup074@gmail.com**
+- 📫 How to reach me: **vikasgup074@gmail.com**
 
 ---
 
