@@ -29,9 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikas kumar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas kumar gupta" height="30" width="40" /></a>
-<a href="https://x.com/VIKAS__045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikas kumar gupta" height="30" width="40" /></a>
-<a href="vikasgup074@gmail.com" target="blank"><img align="center" src="https://d3sxshmncs10te.cloudfront.net/icon/free/svg/2476484.svg?token=eyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkM3N4c2htbmNzMTB0ZS5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTc0NjYzNjk3NiwicSI6bnVsbCwiaWF0IjoxNzQ2Mzc3Nzc2fQ__.154e5cebf075c63b083a367c9ca094b0083ba545572e7bf20a198153ae37c0cb" alt="vikas kumar gupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikas kumar gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://x.com/VIKAS__045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="vikasgup074@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="40" /></a>
 
 ---
 
